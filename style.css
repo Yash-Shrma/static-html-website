@@ -82,7 +82,6 @@ header{
 body{
     display: flex;
     background-image: url("./background.jpg");
-    background-size:cover;
     background-size: 100%;
     position: relative;
     
